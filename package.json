@@ -128,7 +128,7 @@
     "@types/tailwindcss": "^2.0.2",
     "@types/vscode": "^1.54.0",
     "@typescript-eslint/eslint-plugin": "^4.16.0",
-    "@typescript-eslint/parser": "^4.16.0",
+    "@typescript-eslint/parser": "^5.51.0",
     "autoprefixer": "^10.2.5",
     "babel-loader": "^8.2.2",
     "eslint": "^7.21.0",
