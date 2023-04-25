@@ -162,7 +162,7 @@
     "react-error-boundary": "^3.1.4",
     "ts-debounce": "^3.0.0",
     "tweetsodium": "0.0.4",
-    "yaml": "^2.0.0-4",
+    "yaml": "^2.2.2",
     "yup": "^0.32.9",
     "zod": "^3.0.0-alpha.33",
     "zustand": "^3.3.3"
